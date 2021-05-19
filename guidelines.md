@@ -11,7 +11,7 @@ nav_order: 2
 
 [Contribute via Google Docs](https://docs.google.com/document/d/1xhJFWsNdzVru21kheWnoRRrgtQAc7fqz9dYHf5kFbdU/edit?usp=sharing){:target="_blank"}
 
-[Download pdf-version](https://github.com/TorSalve/vrevaluation-test/releases/latest){:target="_blank"}
+[Download pdf-version](https://github.com/vrevaluation/vrevaluation.github.io/releases/latest){:target="_blank"}
 
 ---
 

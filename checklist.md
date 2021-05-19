@@ -8,9 +8,13 @@ nav_order: 3
 # VR object selection and manipulation study checklist
 {: .no_toc }
 
-[Contribute via Google Docs](#)
+[Contribute via Google Docs](https://docs.google.com/document/d/1Ny2LAe80bTIW2hjs6z-L8z8Q1i9ccTv2aGvUMJMoYPo/edit?usp=sharing){:target="_blank"}
+
+[Download pdf-version](https://github.com/vrevaluation/vrevaluation.github.io/releases/latest){:target="_blank"}
 
 ---
+
+Version 1.0.0
 
 ## Table of contents
 {: .no_toc .text-delta }
